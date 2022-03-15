@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	System.out.println("Pierwsza linia z gałęzi Main");
+    System.out.println("Druga linia z gałęzi Main");
     }
 }
